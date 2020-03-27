@@ -1,0 +1,6 @@
+#Environment excludes
+.vscode
+node_modules
+
+#Security excludes
+credentials.json
