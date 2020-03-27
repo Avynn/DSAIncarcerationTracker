@@ -4,3 +4,4 @@ node_modules
 
 #Security excludes
 credentials.json
+token.json
