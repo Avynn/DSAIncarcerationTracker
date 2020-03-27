@@ -1,0 +1,23 @@
+{
+  "name": "dsa-incarceration-tracker",
+  "version": "1.0.0",
+  "description": "A package to help my local DSA chapter track incarcerations in Whatcom County",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avynn/DSAIncarcerationTracker.git"
+  },
+  "author": "Avynn Donaghe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Avynn/DSAIncarcerationTracker/issues"
+  },
+  "homepage": "https://github.com/Avynn/DSAIncarcerationTracker#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
